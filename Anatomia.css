@@ -1,0 +1,43 @@
+/* Anatomia */
+
+h1{
+    color: blue;
+    font-size: 60 px;
+    background: gray;
+}
+/* Selectors
+
+Conecta um elemento HTML com CSS
+
+
+    Tipos
+
+* Global selector '*'
+* Element/Type selector 'h1,h2,p,div' 
+* ID Selector '#box, #container'
+* Class Selector '.red, .m-4' 
+* Atribbute selector, Pseudo-class, Pseudo-element, e outros
+*/
+
+/* GLOBAL */
+
+* {
+    margin: 0;
+
+}
+/* ID SELECTOR */
+
+/* 
+ 
+CAIXAS 
+ 
+* Quase tudo sao caixas no CSS
+* Caixa pode ficar ao lado de uma outra, ou acima
+* Elementos HTML sao caixas
+
+*/
+h1{
+    border: 1px solid red;
+    margin: 20px;
+}
+ 
