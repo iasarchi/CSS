@@ -41,3 +41,44 @@ h1{
     margin: 20px;
 }
  
+ /* Adicionando CSS
+* INCLINE
+atributo 'style'
+
+exemplo de uso no HTML
+<body>
+    <h1 style="color: red"> 
+    Titulo
+    <strong style="color: blue">
+
+*<style>
+tag html que ira conter o css
+
+exemplo de uso no HTML
+
+<style>
+    <h1>
+    color: red
+    </h1>
+</style>
+
+
+*<link>
+arquivo css externo
+
+exemplo de uso no HTML
+
+<link rel="stylesheet" href="style.css">
+
+*@import
+arquivo css externo
+
+exemplo de uso no codigo
+
+@import ' https://fonts.google.com'
+
+--uso do import nao e recomendado pois e mais lento recomenda-se usar o link.
+
+
+
+ */
