@@ -79,6 +79,19 @@ exemplo de uso no codigo
 
 --uso do import nao e recomendado pois e mais lento recomenda-se usar o link.
 
-
-
  */
+/*Tipos Numericos
+
+<integer>       Numero inteiro como -10 ou 223
+<number>        Numero decimal como -2.4, 64 ou 0.234
+<dimension>     E um <number> com uma unidade junto: 90deg, 2s , 8px
+<percentagem>   Representa a fraccao de outro numero: 50%
+
+Unidades comuns
+
+<length> - é um dos mais usados no CSS e representa um valor de distância: px, em, vw
+<angle> - representa um ângulo: deg, rad, turn
+<time> - representa um tempo: s, ms
+<resolution> - representa resoluções para dispositivos: dpi
+2222222
+*/
